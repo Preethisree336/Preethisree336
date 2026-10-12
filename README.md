@@ -26,5 +26,7 @@
 * Portfolio Website
 * To-Do App
 
- Goal
-To become a Python Full Stack Developer and build useful web applications.
+ Career Goal
+
+To become a skilled Python Full Stack Developer by building real-world projects and continuously improving my technical skills.
+
