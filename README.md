@@ -1,16 +1,30 @@
-## Hi there 👋
+ Hi, I'm Preethi 👋
 
-<!--
-**Preethisree336/Preethisree336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Python Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+
+* I'm learning web development and Python programming.
+* I enjoy building practical projects.
+* I'm improving my coding skills step by step.
+
+ Skills
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
+* MongoDB
+
+ My Projects
+
+* Flower Shop Website
+* Nail Art Website
+* Portfolio Website
+* To-Do App
+
+ Goal
+To become a Python Full Stack Developer and build useful web applications.
