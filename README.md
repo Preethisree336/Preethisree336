@@ -19,7 +19,12 @@
 * SQL
 * MongoDB
 
+
  My Projects
+
+🌸 **Lovely Lilies — Web Development Projects**
+
+[View My Projects](https://github.com/Preethisree336/Lovely-Lilies)
 
 * Flower Shop Website
 * Nail Art Website
@@ -29,4 +34,6 @@
  Career Goal
 
 To become a skilled Python Full Stack Developer by building real-world projects and continuously improving my technical skills.
+
+
 
